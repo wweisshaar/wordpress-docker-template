@@ -1,0 +1,6 @@
+.env
+dbdata/
+*.swp
+wp-content/cache/
+.idea/
+.DS_Store
